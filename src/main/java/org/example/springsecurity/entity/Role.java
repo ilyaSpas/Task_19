@@ -1,2 +1,5 @@
-package org.example.springsecurity.entity;public enum Role {
+package org.example.springsecurity.entity;
+
+public enum Role {
+    USER, MODERATOR, ADMIN
 }
